@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/micro-app-todolist/static/css/main.c1f9409d.css",
+    "main.js": "/micro-app-todolist/static/js/main.6fa5c495.js",
+    "index.html": "/micro-app-todolist/index.html",
+    "main.c1f9409d.css.map": "/micro-app-todolist/static/css/main.c1f9409d.css.map",
+    "main.6fa5c495.js.map": "/micro-app-todolist/static/js/main.6fa5c495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f9409d.css",
+    "static/js/main.6fa5c495.js"
+  ]
+}
